@@ -1,5 +1,7 @@
 # Advanced Enemy AI
 
+## [Click me to download!](https://github.com/ineertiaa/Advanced-Enemy-AI/releases/tag/1.0)
+
 # How to use
 Setting up is pretty simple, just follow these steps:
 
