@@ -4,9 +4,11 @@
 Setting up is pretty simple, just follow these steps:
 
 Add a Transform for your eyes, this is where the rays will start.
+
 <img width="427" height="36" alt="image" src="https://github.com/user-attachments/assets/6da1b613-9b41-409e-9845-5ebf96d4e1df" />
 
 Change this to whatever tag you have on your player.
+
 <img width="427" height="36" alt="image" src="https://github.com/user-attachments/assets/0ea8eb02-2d34-4d6d-b4d8-8d9ef0448761" />
 
 # Tada! You're all done!
