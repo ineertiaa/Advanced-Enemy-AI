@@ -22,8 +22,10 @@ public class InertiasAI : MonoBehaviourPun
     public float SpottedTime;
     private float spottedTimer;
     [Tooltip("The time the monster still chases the player even after losing sight.")] public float LostSightTime = 1.5f;
+    
+    public string PlayerTag;
 
-
+    [Header("Debugging! Don't touch!")]
     public enum States
     {
         Patrolling,
@@ -33,8 +35,6 @@ public class InertiasAI : MonoBehaviourPun
     }
 
     [SerializeField] States currentState = States.Patrolling;
-    
-    public string PlayerTag;
 
     private Transform target; 
 
